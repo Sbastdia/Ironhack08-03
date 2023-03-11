@@ -1,0 +1,23 @@
+.red-box{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.blue-box{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.yellow-box{
+    background-color: yellow;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
